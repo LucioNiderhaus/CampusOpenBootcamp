@@ -1,0 +1,15 @@
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\bin\Debug\net6.0\Ejercicios.exe
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\bin\Debug\net6.0\Ejercicios.deps.json
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\bin\Debug\net6.0\Ejercicios.dll
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\bin\Debug\net6.0\Ejercicios.pdb
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.dll
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\refint\Ejercicios.dll
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.pdb
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+C:\Users\Lucio\source\repos\Bootcamp\Ejercicios\obj\Debug\net6.0\ref\Ejercicios.dll
