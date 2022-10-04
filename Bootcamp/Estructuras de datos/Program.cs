@@ -4,6 +4,7 @@ datos persona = new datos("Alberto", "Sanchez", "4761-4535", "Perú 4891","alber
 
 Console.WriteLine("-----------------------------------" + "\n" + "Nombre y Apellido: " + persona.nombre +" "+ persona.apellido + "\n" + "Numero de teléfono: "+ persona.numero + "\n" + "Dirección: " + persona.direccion + "\n" + "Correo: " + persona.email + "\n" + "Cliente: " + persona.cliente + "\n" + "-----------------------------------");
 
+
 public struct datos
 {
 
@@ -24,7 +25,7 @@ public struct datos
 
     public string nombre { get; set; }
   
-    public string apellido { get; }
+    public string apellido { get; set; }
 
     public string numero { get; }
     

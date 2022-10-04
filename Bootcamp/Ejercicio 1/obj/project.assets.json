@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Bucle 3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bucle 3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bucle 3.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Bucle 3/1.0.0": {
+      "type": "project",
+      "path": "../Bucle 3/Bucle 3.csproj",
+      "msbuildProject": "../Bucle 3/Bucle 3.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Bucle 3 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Lucio\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lucio\\source\\repos\\Bootcamp\\Bucle 3\\Bucle 3.csproj": {
+              "projectPath": "C:\\Users\\Lucio\\source\\repos\\Bootcamp\\Bucle 3\\Bucle 3.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

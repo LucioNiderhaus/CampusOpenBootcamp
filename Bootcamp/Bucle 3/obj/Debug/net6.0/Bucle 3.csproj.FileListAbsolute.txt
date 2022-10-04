@@ -1,0 +1,15 @@
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\bin\Debug\net6.0\Bucle 3.exe
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\bin\Debug\net6.0\Bucle 3.deps.json
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\bin\Debug\net6.0\Bucle 3.runtimeconfig.json
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\bin\Debug\net6.0\Bucle 3.dll
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\bin\Debug\net6.0\Bucle 3.pdb
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.csproj.AssemblyReference.cache
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.AssemblyInfoInputs.cache
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.AssemblyInfo.cs
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.csproj.CoreCompileInputs.cache
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.dll
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\refint\Bucle 3.dll
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.pdb
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\Bucle 3.genruntimeconfig.cache
+C:\Users\Lucio\source\repos\Bootcamp\Bucle 3\obj\Debug\net6.0\ref\Bucle 3.dll

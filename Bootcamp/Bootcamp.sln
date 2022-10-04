@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 1", "Ejercicio 1\Ejercicio 1.csproj", "{73752A48-C5AE-480E-A255-35E67D4E89D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 1", "Ejercicio 1\Ejercicio 1.csproj", "{73752A48-C5AE-480E-A255-35E67D4E89D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2", "Ejercicio 2\Ejercicio 2.csproj", "{DC6DBD29-ADCB-43CD-B89D-946566F6C225}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2.1", "Ejercicio 2.1\Ejercicio 2.1.csproj", "{74F8CEA5-EBEB-4C47-B514-5D139008111E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2.1", "Ejercicio 2.1\Ejercicio 2.1.csproj", "{74F8CEA5-EBEB-4C47-B514-5D139008111E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2.2", "Ejercicio 2.2\Ejercicio 2.2.csproj", "{FD67F592-4706-47FE-8439-BC8E92EFFF64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2.2", "Ejercicio 2.2\Ejercicio 2.2.csproj", "{FD67F592-4706-47FE-8439-BC8E92EFFF64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2.3", "Ejercicio 2.3\Ejercicio 2.3.csproj", "{1FFDF64F-A804-4517-8AA6-9BC017D0E804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 2.3", "Ejercicio 2.3\Ejercicio 2.3.csproj", "{1FFDF64F-A804-4517-8AA6-9BC017D0E804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructuras de datos", "Estructuras de datos\Estructuras de datos.csproj", "{E6FF9125-0481-4273-8F7C-5B0F27FFE2F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estructuras de datos", "Estructuras de datos\Estructuras de datos.csproj", "{E6FF9125-0481-4273-8F7C-5B0F27FFE2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles 1", "Bucles\Bucles 1.csproj", "{26AB8F9E-1D5A-470A-9B02-C2DF02EF7CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles 2", "Bucles 2\Bucles 2.csproj", "{9C313E24-82C8-4DFA-BAC7-A6B73629237F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucle 3", "Bucle 3\Bucle 3.csproj", "{8D27338F-EE94-4C0A-9BDE-545638A00699}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{E6FF9125-0481-4273-8F7C-5B0F27FFE2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6FF9125-0481-4273-8F7C-5B0F27FFE2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6FF9125-0481-4273-8F7C-5B0F27FFE2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26AB8F9E-1D5A-470A-9B02-C2DF02EF7CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AB8F9E-1D5A-470A-9B02-C2DF02EF7CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AB8F9E-1D5A-470A-9B02-C2DF02EF7CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AB8F9E-1D5A-470A-9B02-C2DF02EF7CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C313E24-82C8-4DFA-BAC7-A6B73629237F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C313E24-82C8-4DFA-BAC7-A6B73629237F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C313E24-82C8-4DFA-BAC7-A6B73629237F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C313E24-82C8-4DFA-BAC7-A6B73629237F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D27338F-EE94-4C0A-9BDE-545638A00699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D27338F-EE94-4C0A-9BDE-545638A00699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D27338F-EE94-4C0A-9BDE-545638A00699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D27338F-EE94-4C0A-9BDE-545638A00699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
